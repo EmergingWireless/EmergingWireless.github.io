@@ -1,2 +1,2 @@
-# emergingwireless22.github.io
-EmergingWireless2022
+# emergingwireless.github.io
+EmergingWireless
